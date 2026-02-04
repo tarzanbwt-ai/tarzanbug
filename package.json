@@ -1,0 +1,28 @@
+{
+  "name": "emperor-vip-system",
+  "version": "1.0.0",
+  "description": "🦁 THE GRAND EMPEROR VIP - SUPREME SAAS EDITION",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "saas",
+    "baileys",
+    "telegraf"
+  ],
+  "author": "Emperor Developer",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "telegraf": "^4.16.3",
+    "fs-extra": "^11.1.1",
+    "pino": "^8.19.0",
+    "qrcode-terminal": "^0.12.0",
+    "link-preview-js": "^3.0.4",
+    "jimp": "^0.22.10"
+  }
+}
